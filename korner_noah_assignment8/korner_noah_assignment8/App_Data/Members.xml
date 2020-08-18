@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+  <Members>
+    <Member username="Member" password="TWVtYmVy" />
+  </Members>
+  <Staff1>
+    <Member username="Staff1" password="Staff1"></Member>
+  </Staff1>
+  <Staff2>
+    <Member username="Staff2" password="Staff2"></Member>
+  </Staff2>
+</root>

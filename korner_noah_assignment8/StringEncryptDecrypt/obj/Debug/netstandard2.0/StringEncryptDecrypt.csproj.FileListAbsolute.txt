@@ -1,0 +1,9 @@
+C:\Users\noahs\Desktop\School\CSE 445\Project 5\korner_noah_assignment8\StringEncryptDecrypt\bin\Debug\netstandard2.0\StringEncryptDecrypt.deps.json
+C:\Users\noahs\Desktop\School\CSE 445\Project 5\korner_noah_assignment8\StringEncryptDecrypt\bin\Debug\netstandard2.0\StringEncryptDecrypt.dll
+C:\Users\noahs\Desktop\School\CSE 445\Project 5\korner_noah_assignment8\StringEncryptDecrypt\bin\Debug\netstandard2.0\StringEncryptDecrypt.pdb
+C:\Users\noahs\Desktop\School\CSE 445\Project 5\korner_noah_assignment8\StringEncryptDecrypt\obj\Debug\netstandard2.0\StringEncryptDecrypt.csprojAssemblyReference.cache
+C:\Users\noahs\Desktop\School\CSE 445\Project 5\korner_noah_assignment8\StringEncryptDecrypt\obj\Debug\netstandard2.0\StringEncryptDecrypt.csproj.CoreCompileInputs.cache
+C:\Users\noahs\Desktop\School\CSE 445\Project 5\korner_noah_assignment8\StringEncryptDecrypt\obj\Debug\netstandard2.0\StringEncryptDecrypt.AssemblyInfoInputs.cache
+C:\Users\noahs\Desktop\School\CSE 445\Project 5\korner_noah_assignment8\StringEncryptDecrypt\obj\Debug\netstandard2.0\StringEncryptDecrypt.AssemblyInfo.cs
+C:\Users\noahs\Desktop\School\CSE 445\Project 5\korner_noah_assignment8\StringEncryptDecrypt\obj\Debug\netstandard2.0\StringEncryptDecrypt.dll
+C:\Users\noahs\Desktop\School\CSE 445\Project 5\korner_noah_assignment8\StringEncryptDecrypt\obj\Debug\netstandard2.0\StringEncryptDecrypt.pdb

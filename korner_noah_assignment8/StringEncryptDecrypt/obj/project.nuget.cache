@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZHV0YuxZu4ZOwEpbor0x6csZMvpSt77iu1pri2FCd/u9CNho2wCRBm32P5Ijou9GmULe5+CMuszyK6xu5MKHMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\noahs\\Desktop\\School\\CSE 445\\Project 5\\korner_noah_assignment8\\StringEncryptDecrypt\\StringEncryptDecrypt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\noahs\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\noahs\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
